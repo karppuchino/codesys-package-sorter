@@ -20,10 +20,8 @@ The project demonstrated core concepts including:
 - Automated generation of products/packages
 - Sorts packages automatically into 3 categories (small/medium/large) based on size
 - Counters and indicator lights
+- Emergency stop and reset
 - HMI-user interface
-
-Picture of HMI:
-<img width="1282" height="632" alt="image" src="https://github.com/user-attachments/assets/4c4725ce-852c-495f-9d26-0c80de559fab" />
 
 Video of HMI functionalities:
 https://github.com/user-attachments/assets/b08840b1-25a3-42bc-9393-4c3a12dae6bd
